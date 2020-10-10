@@ -36,6 +36,6 @@ const App = () => {
       </table>
     </div>
   );
-}
+};
 
 export default App;
